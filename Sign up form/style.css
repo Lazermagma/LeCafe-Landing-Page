@@ -1,0 +1,147 @@
+
+
+
+.Coffee{
+    width: 450px;
+    height: 750px;
+    position:relative;
+    top: 166px;
+    right: 20px;
+    
+}
+.Logo {
+    z-index: 1;
+    position: relative;
+    top: 435px;
+    
+   
+  
+   
+}
+.background{
+    background-color: black;
+    opacity: 30%;
+    position: relative;
+    top: 1px;
+    right: 20px;
+
+    z-index: -1;
+    padding: 1.5rem;
+    width: 400px;
+    height: 135px;
+    
+
+}
+.Logo img{
+    height: 300px;
+    position: relative;
+    top: 250px;
+    left: 5px;
+    width: 400px; 
+    
+   
+    
+}
+
+body{
+    overflow: hidden;
+    position: relative;
+    bottom: 700px;
+    background-color: rgb(221, 218, 216);
+    
+}
+
+
+.Container{
+    
+    position: relative;
+    left: 430px;
+    bottom: 500px;
+    outline-width: 1rem;
+    outline-color: burlywood;
+    max-width: fit-content;
+   
+}
+.Container p{
+    max-width: fit-content;
+    position: relative;
+    left: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+}
+
+h3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+
+}
+
+.login {
+   font-size: 20px;
+}
+.login a{
+    color: rgb(210, 137, 85);
+}
+.login a:hover{
+    color: rgb(142, 101, 57);
+}
+.border{
+    background-color: white;
+    size: 100%;
+    padding: 2rem;
+   border-radius: 3px;
+   
+}
+
+.head{
+    font-size: 25px;
+    font-weight: 500;
+    width: 90%;
+    
+}
+.input{
+    display: inline-block;
+    width: 25%;
+    font-size: 21px;
+    
+    opacity: 50%;
+}
+div label {
+    display: block;
+    ;
+}
+.Title h3{
+    font-size: 2rem;
+}
+
+button {
+background-color: rgb(210, 137, 85);
+color: white;
+font-weight: 700;
+font-size: 1.2em;
+border: 2px solid var(--color);
+border-radius: 5px;
+padding: 10px 40px;
+margin: 40px 0;
+position: relative;
+top: 50px;
+
+}
+button:hover{
+
+ background-color: rgb(126, 81, 48);
+color: rgb(255, 182, 103);
+font-weight: 700;
+font-size: 1.2em;
+border: 2px solid var(--color);
+border-radius: 5px;
+padding: 10px 40px;
+margin: 40px 0;
+cursor: pointer;
+}
+.button{
+    position: relative;
+    bottom: 20px;
+    left: 345px;
+    
+}
